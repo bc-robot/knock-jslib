@@ -1,0 +1,18 @@
+{
+  "name": "knock-jslib",
+  "version": "1.0.0",
+  "description": "npm set init-author-name 'Kevin' npm set init-author-email '409747494@qq.com' npm set init-author-url 'http://' npm set init-license 'MIT' npm set save-exact true",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bc-robot:bc-robot/knock-jslib"
+  },
+  "author": "Kevin <409747494@qq.com> (http://go4.so/)",
+  "license": "MIT",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
